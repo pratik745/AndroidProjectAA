@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string-array name="Sort_By">
+        <item>Name</item>
+        <item>No. Of Episodes</item>
+    </string-array>
+</resources>
